@@ -10,6 +10,12 @@ public class aaaaaa {
 			System.out.print(total);
 			
 		}
+public static void resta (int numero, int numero1) {
+			
+			int total = numero - numero1;
+			System.out.print(total);
+			
+		}
 
 		
 		
@@ -19,6 +25,7 @@ public class aaaaaa {
 		int num1 = 3;
 		
 		suma(num,num1);
+		resta(num,num1);
 
 
 	}
