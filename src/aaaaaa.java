@@ -22,7 +22,12 @@ public static void multi (int numero, int numero1) {
 	System.out.print(total);
 	
 }
-
+public static void divi (int numero, int numero1) {
+	
+	int total = numero / numero1;
+	System.out.print(total);
+	
+}
 
 		
 		
