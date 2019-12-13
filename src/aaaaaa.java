@@ -1,8 +1,25 @@
+import java.util.Scanner;
 
 public class aaaaaa {
+	
 
+		public static void suma (int numero, int numero1) {
+			
+			int total = numero + numero1;
+			
+			System.out.print(total);
+			
+		}
+
+		
+		
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		int num = 2;
+		int num1 = 3;
+		
+		suma(num,num1);
+
 
 	}
 
