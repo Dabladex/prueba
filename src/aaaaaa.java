@@ -29,7 +29,12 @@ public static void divi (int numero, int numero1) {
 	
 }
 
-		
+public static void elevar (int numero, int numero1) {
+	
+	int total = (int) Math.pow(numero, numero1);
+	System.out.print(total);
+	
+}
 		
 	public static void main(String[] args) {
 		
